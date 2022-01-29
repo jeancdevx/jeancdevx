@@ -4,6 +4,7 @@
 **jcodev2/jcodev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working in an todo-app
 - 🌱 I’m currently learning ReactJS
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jcode2006@gmail.com
 - 😄 Pronouns: Gartiel or Jcode
 - ⚡ Fun fact: Playing League of Legends
--->
