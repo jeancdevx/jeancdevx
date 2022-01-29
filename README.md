@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**jcodev2/jcodev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+# Hi, I'm Jeancarlo
 
 - 🔭 I’m currently working in an todo-app
 - 🌱 I’m currently learning ReactJS
@@ -14,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jcode2006@gmail.com
 - 😄 Pronouns: Gartiel or Jcode
 - ⚡ Fun fact: Playing League of Legends
+
+![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=light)
