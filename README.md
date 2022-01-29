@@ -1,13 +1,6 @@
 # Hi, I'm Jeancarlo
 
-- 🔭 I’m currently working in an todo-app
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on ecommerce
-- 🤔 I’m looking for help with Redux
-- 💬 Ask me why I haven't learned redux yet?
-- 📫 How to reach me: jcode2006@gmail.com
-- 😄 Pronouns: Gartiel or Jcode
-- ⚡ Fun fact: Playing League of Legends
+![banner github](https://user-images.githubusercontent.com/72767265/151666571-5eff635f-e780-4bb4-bcb8-284d8d28fb77.png)
 
 ```js
 const todo = {
@@ -24,5 +17,11 @@ const todo = {
   hobbies: ["Reading", "Watching movies", "Playing games"]
 };
 ```
+
+## You can find me on:
+
+- [Github](https://github.com/jcodev2)
+- [twitter](https://twitter.com/@JcodeJean)
+- [instagram](https://www.instagram.com/jeanc_7w7/)
 
 ![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=dark)
