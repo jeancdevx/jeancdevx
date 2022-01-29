@@ -9,4 +9,20 @@
 - 😄 Pronouns: Gartiel or Jcode
 - ⚡ Fun fact: Playing League of Legends
 
-![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=light)
+```js
+const todo = {
+  id: 2006,
+  name: "Jeancarlo",
+  email: "jcode2006@gmail.com",
+  city: "Caraz",
+  country: "Perú",
+  pronouns: "he/him",
+  funFact: "Playing League of Legends",
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworks: ["ReactJS", "Redux"],
+  tools: ["Git", "Github", "Gitlab"],
+  hobbies: ["Reading", "Watching movies", "Playing games"]
+};
+```
+
+![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=dark)
