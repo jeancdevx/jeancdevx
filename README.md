@@ -9,4 +9,4 @@
 - 😄 Pronouns: Gartiel or Jcode
 - ⚡ Fun fact: Playing League of Legends
 
-![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=dark)
+![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=light)
