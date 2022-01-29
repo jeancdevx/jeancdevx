@@ -1,6 +1,6 @@
 # Hi, I'm Jeancarlo
 
-![banner github](https://user-images.githubusercontent.com/72767265/151666571-5eff635f-e780-4bb4-bcb8-284d8d28fb77.png)
+![banner github](https://user-images.githubusercontent.com/72767265/151666684-43e689c5-4c31-4018-a643-da755751b101.png)
 
 ```js
 const todo = {
