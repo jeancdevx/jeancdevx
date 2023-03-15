@@ -6,7 +6,7 @@
 const todo = {
   id: 2006,
   name: "Jeancarlo",
-  nickname: "Gartiel23"
+  nickname: "Gartiel23",
   email: "jcode2006@gmail.com",
   city: "Caraz",
   country: "Perú",
