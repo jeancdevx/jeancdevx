@@ -6,14 +6,15 @@
 const todo = {
   id: 2006,
   name: "Jeancarlo",
+  nickname: "Gartiel23"
   email: "jcode2006@gmail.com",
   city: "Caraz",
   country: "Perú",
   pronouns: "he/him",
   funFact: "Playing League of Legends",
-  languages: ["JavaScript", "HTML", "CSS"],
-  frameworks: ["ReactJS", "Redux"],
-  tools: ["Git", "Github", "Gitlab"],
+  languages: ["JavaScript"],
+  frameworks: ["NextJS"],
+  tools: ["Git", "Github"],
   hobbies: ["Reading", "Watching movies", "Playing games"]
 };
 ```
@@ -21,7 +22,7 @@ const todo = {
 ## You can find me on:
 
 - [Github](https://github.com/jcodev2)
-- [twitter](https://twitter.com/@JcodeJean)
-- [instagram](https://www.instagram.com/jeanc_7w7/)
+- [twitter](https://twitter.com/@Gartiel23)
+- [instagram](https://www.instagram.com/jeanc.dev/)
 
 ![Jeancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&theme=dark)
