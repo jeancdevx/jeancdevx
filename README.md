@@ -16,7 +16,7 @@
 {  
 
 * 👂 `My name is`: **Jean**,
-* 👩 `Pronouns`: **He/Him**,
+* 👦 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **NodeJS**,
 * ❤️ `I love`: **My puppy Amy**,
