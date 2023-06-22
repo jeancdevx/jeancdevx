@@ -19,7 +19,7 @@
 * 👩 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **NodeJS**,
-* ❤️ `I love`: **My puppy Amy**  ,
+* ❤️ `I love`: **My puppy Amy**,
 * 💻 `Favorite lang`: **Javascript**  
 
 }
