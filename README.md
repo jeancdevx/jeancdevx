@@ -6,12 +6,12 @@
 
 <hr/>
 
-<img align='center' src='https://user-images.githubusercontent.com/72767265/246669536-3a7b70aa-0b16-4083-aaa8-2bdcab436eb0.png'>
+<img align='center' src='https://user-images.githubusercontent.com/72767265/246669536-3a7b70aa-0b16-4083-aaa8-2bdcab436eb0.png' width='100%'>
 
 <br>
 <br>
 
-<img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='25%'>  
+<img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='20%'>  
 
 {  
 
@@ -44,7 +44,7 @@
 | <a href="https://github.com/jcodev2/spotify-clone" target="_blank">**Spotify Clone**</a> | <a href="https://github.com/jcodev2/tic-tac-toe" target="_blank">**Tic Tac Toe**</a> | <a href="https://github.com/jcodev2/netflix-clone" target="_blank">**Netflix Clone**</a> | <a href="https://github.com/jcodev2/xkcd" target="_blank">**XKCD**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://github.com/jcodev2/jcodev2/assets/72767265/1b1b7771-353a-4c7a-8a77-d016d0f1eb07' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/jcodev2/jcodev2/assets/72767265/4beb1787-bd09-48d8-8e9e-0de3874a125b' height='100px'>  | <img align='center' src='https://github.com/jcodev2/jcodev2/assets/72767265/742a0d79-e970-41d0-b7a5-3e2ca44e8d9b' width="100px" height='100px'> | <img align='center' src='https://github.com/jcodev2/jcodev2/assets/72767265/34d41c39-5ea5-45ee-a21a-caf214aebce8' width="100px" height='100px'> |
-| <p>Spotify Clone in Javascript</p> <a href="https://github.com/jcodev2/spotify-clone" target="_blank">`Repository`</a> | <p>Tic Tac Toe Game</p> <a href="https://github.com/jcodev2/tic-tac-toe" target="_blank">`Repository`</a> | <p>Netflix Clone in Javascript</p> <a href="https://github.com/jcodev2/netflix-clone" target="_blank">`Repository`</a> | <p>Comic newsletter</p> <a href="https://github.com/jcodev2/xkcd" target="_blank">`Repository`</a> |
+| <p>Spotify Clone in NextJS and Supabase</p> <a href="https://github.com/jcodev2/spotify-clone" target="_blank">`Repository`</a> | <p>Tic Tac Toe Game build in React</p> <a href="https://github.com/jcodev2/tic-tac-toe" target="_blank">`Repository`</a> | <p>Netflix Clone in NextJS and MongoDB</p> <a href="https://github.com/jcodev2/netflix-clone" target="_blank">`Repository`</a> | <p>Comic newsletter using XKCD Public API</p> <a href="https://github.com/jcodev2/xkcd" target="_blank">`Repository`</a> |
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
