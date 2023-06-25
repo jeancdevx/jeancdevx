@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there</h2>
+<h1 align="center">👋 Hi there</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jcodev2&color=blueviolet"/> 
