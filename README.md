@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there</h2>
+<h1 align="center">👋 Hi there</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jcodev2&color=blueviolet"/> 
@@ -13,16 +13,12 @@
 
 <img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='20%'>  
 
-{  
-
 * 👂 `My name is`: **Jean**,
-* 👩 `Pronouns`: **He/Him**,
+* 👦 `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **17 years old**,
 * 🌱 `I’m currently learning`: **NodeJS**,
 * ❤️ `I love`: **My puppy Amy**,
 * 💻 `Favorite lang`: **Javascript**  
-
-}
 
 <br/>
 
