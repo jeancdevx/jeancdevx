@@ -13,11 +13,11 @@
 
 <img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='20%'>  
 
-* 👂 `My name is`: **Jean**,
-* 👦 `Pronouns`: **He/Him**,
-* ⚡ `I'm`: **17 years old**,
-* 🌱 `I’m currently learning`: **NodeJS**,
-* ❤️ `I love`: **My puppy Amy**,
+* 👂 `My name is`: **Jean**
+* 👦 `Pronouns`: **He/Him**
+* ⚡ `I'm`: **17 years old**
+* 🌱 `I’m currently learning`: **NodeJS**
+* ❤️ `I love`: **My puppy Amy**
 * 💻 `Favorite lang`: **Javascript**  
 
 <br/>
