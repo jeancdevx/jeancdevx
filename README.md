@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jcodev2&color=blueviolet"/> 
+    <img src="https://komarev.com/ghpvc/?username=jeancdex&color=blueviolet"/> 
 </p>
 
 <hr/>
@@ -25,22 +25,22 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jcodev2&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jcodev2&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jcodev2&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jeancdex&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancdex&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jeancdex&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jcodev2&theme=tokyonight"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jeancdex&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://github.com/jcodev2/spotify-clone" target="_blank">**Spotify Clone**</a> | <a href="https://github.com/jcodev2/tic-tac-toe" target="_blank">**Companion AI**</a> | <a href="https://github.com/jcodev2/ai-companion" target="_blank">**Netflix Clone**</a> | <a href="https://github.com/jcodev2/breadit" target="_blank">**Breadit**</a> |
+| <a href="https://github.com/jeancdex/spotify-clone" target="_blank">**Spotify Clone**</a> | <a href="https://github.com/jeancdex/tic-tac-toe" target="_blank">**Companion AI**</a> | <a href="https://github.com/jeancdex/ai-companion" target="_blank">**Netflix Clone**</a> | <a href="https://github.com/jeancdex/breadit" target="_blank">**Breadit**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/jcodev2/jcodev2/assets/72767265/1b1b7771-353a-4c7a-8a77-d016d0f1eb07' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/jcodev2/ai-companion/assets/72767265/950fbabc-a6e9-45cf-854c-14f0b164aee6' height='100px'>  | <img align='center' src='https://github.com/jcodev2/jcodev2/assets/72767265/742a0d79-e970-41d0-b7a5-3e2ca44e8d9b' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/jcodev2/breadit/master/public/favicon.ico' width="100px" height='100px'> |
-| <p>Spotify Clone in NextJS and Supabase</p> <a href="https://github.com/jcodev2/spotify-clone" target="_blank">`Repository`</a> | <p>Software as a Service CompanionAI</p> <a href="https://github.com/jcodev2/tic-tac-toe" target="_blank">`Repository`</a> | <p>Netflix Clone in NextJS and MongoDB</p> <a href="https://github.com/jcodev2/netflix-clone" target="_blank">`Repository`</a> | <p>FullStack Reddit Clone in NextJS</p> <a href="https://github.com/jcodev2/xkcd" target="_blank">`Repository`</a> |
+<img align='center' src='https://github.com/jeancdex/jeancdex/assets/72767265/1b1b7771-353a-4c7a-8a77-d016d0f1eb07' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/jeancdex/ai-companion/assets/72767265/950fbabc-a6e9-45cf-854c-14f0b164aee6' height='100px'>  | <img align='center' src='https://github.com/jeancdex/jeancdex/assets/72767265/742a0d79-e970-41d0-b7a5-3e2ca44e8d9b' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/jeancdex/breadit/master/public/favicon.ico' width="100px" height='100px'> |
+| <p>Spotify Clone in NextJS and Supabase</p> <a href="https://github.com/jeancdex/spotify-clone" target="_blank">`Repository`</a> | <p>Software as a Service CompanionAI</p> <a href="https://github.com/jeancdex/tic-tac-toe" target="_blank">`Repository`</a> | <p>Netflix Clone in NextJS and MongoDB</p> <a href="https://github.com/jeancdex/netflix-clone" target="_blank">`Repository`</a> | <p>FullStack Reddit Clone in NextJS</p> <a href="https://github.com/jeancdex/xkcd" target="_blank">`Repository`</a> |
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
