@@ -2,9 +2,13 @@
 
 <hr/>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="auto" height="450" src="https://embed.figma.com/proto/NYP6T19OmRaDPaeI2bTjm6/Profile?page-id=0%3A1&node-id=3-57&node-type=canvas&viewport=-24%2C-936%2C1.67&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+<!-- Link to the PDF file -->
 
-<br>
+<p align="center">
+  <a href="./img/Profile.pdf">
+    <img src="./img/profile.png" alt="Profile" width="auto" height="450px">
+  </a>
+</p>
 
 ```javascript
 - 👂 `My name is`: Jean
@@ -71,3 +75,5 @@
 <p align="center">
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
+
+![Funny GIF](./img/the-last-of-us.gif)
