@@ -38,7 +38,7 @@
   
 |  | Repository | Description | Technologies | Web |
 | --- | --- | --- | --- | --- |
-| ![Lingo](./img/mascot.svg) | [**Duolingo Clone Repo**](https://github.com/jeancdevx/duolingo-clone) | A clone of the Duolingo app | `NextJS` `Tailwind` `Typescript` `Neon Database` | [**Duolingo Clone**](https://https://duolingo-clone-dun.vercel.app/) |
+| ![Lingo](./img/mascot.svg) | [**Duolingo Clone Repo**](https://github.com/jeancdevx/duolingo-clone) | A clone of the Duolingo app | `NextJS` `Tailwind` `Typescript` `Neon Database` | [**Duolingo Clone**](https://duolingo-clone-dun.vercel.app/) |
 
 <h2 align="center">🌱 My Skills</h2>
 
