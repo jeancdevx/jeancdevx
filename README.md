@@ -14,7 +14,7 @@
 - 👂 `My name is`: Jean
 - 👦 `Pronouns`: He/Him
 - ⚡ `I'm`: 18 years old
-- 🌱 `I’m currently learning`: how to survive
+- 🌱 `I’m currently learning`: how to survive :)
 - ❤️ `I love`: My puppy Amy
 - 💻 `Favorite lang`: Javascript
 ```
