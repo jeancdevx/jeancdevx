@@ -16,7 +16,7 @@
 - ⚡ `I'm`: 19 years old
 - 🌱 `I’m currently learning`: how to survive :)
 - ❤️ `I love`: My puppy Amy
-- 💻 `Favorite lang`: Javascript
+- 💻 `Favorite lang`: Typescript
 ```
 
 <br/>
