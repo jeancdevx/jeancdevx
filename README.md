@@ -15,7 +15,7 @@
 - 👦 `Pronouns`: He/Him
 - ⚡ `I'm`: 19 years old
 - 🌱 `I’m currently learning`: how to survive :)
-- ❤️ `I love`: My puppy Amy
+- ❤️ `I love`: Amy <5
 - 💻 `Favorite lang`: Typescript
 ```
 
