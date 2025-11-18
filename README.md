@@ -14,7 +14,7 @@
 - 👂 `My name is`: Jean
 - 👦 `Pronouns`: He/Him
 - ⚡ `I'm`: 19 years old
-- 🌱 `I’m currently learning`: how to survive :)
+- 🌱 `I’m currently learning`: infraestructure as code with aws
 - ❤️ `I love`: Amy <5
 - 💻 `Favorite lang`: Typescript
 ```
