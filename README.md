@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi there!</h1>
 
 <hr/>
+<p align="center">
+Coder with 6 years of experience building self projects and learning new technologies. Still looking for my happiness
+</p>
 
 <!-- Link to the PDF file -->
 
