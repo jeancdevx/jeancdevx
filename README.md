@@ -35,10 +35,10 @@ Coder with 6 years of experience building self projects and learning new technol
   
 |  | Repository | Description | Technologies | Web |
 | --- | --- | --- | --- | --- |
-| ![Lingo](./img/mascot.svg) | [**Duolingo Clone Repo**](https://github.com/jeancdevx/duolingo-clone) | A clone of the Duolingo app | `NextJS` `Tailwind` `Typescript` `Neon Database` | [**Duolingo Clone**](https://duolingo-clone-dun.vercel.app/) |
-| ![Rafflenow](./img/rafflenow.png) | [**Rafflenow IAC Repo**](https://github.com/jeancdevx/rafflenow-infraestructure) | Distributed event-driven system designed for an online raffle platform, deployed on AWS | `Terraform` `AWS` | Not public deployed |
-| ![GalaxyMorphML](./img/galaxy-morph.avif) | [**Galaxy Morph ML Repo**](https://github.com/jeancdevx/galaxy-morph-ml) | Galaxy morphology classification using Convolutional Neural Networks based on the Hubble–de Vaucouleurs scheme | `Python` `Pytorch` `Spark` | [**Galaxy Morph ML**](https://www.kaggle.com/code/jeancdevx/galaxymorph-cnn-for-classifying-galaxy-morphology) |
-| ![GalaxyMorphBackend](./img/galaxy-morph.avif) | [**Galaxy Morph Backend Repo**](https://github.com/jeancdevx/galaxy-morph-backend) | Real-time distributed event-driven system designed for galaxy morphology classification using Deep Learning | `NestJS` `Spark` `Kafka` `Cloudflare` | Not public deployed |
+| <img src="./img/mascot.svg" alt="Lingo" width="64" height="auto"> | [**Duolingo Clone Repo**](https://github.com/jeancdevx/duolingo-clone) | A clone of the Duolingo app | `NextJS` `Tailwind` `Typescript` `Neon Database` | [**Duolingo Clone**](https://duolingo-clone-dun.vercel.app/) |
+| <img src="./img/rafflenow.png" alt="Rafflenow" width="64" height="auto"> | [**Rafflenow IAC Repo**](https://github.com/jeancdevx/rafflenow-infraestructure) | Distributed event-driven system designed for an online raffle platform, deployed on AWS | `Terraform` `AWS` | Not public deployed |
+| <img src="./img/galaxy-morph.avif" alt="GalaxyMorphML" width="64" height="auto"> | [**Galaxy Morph ML Repo**](https://github.com/jeancdevx/galaxy-morph-ml) | Galaxy morphology classification using Convolutional Neural Networks based on the Hubble–de Vaucouleurs scheme | `Python` `Pytorch` `Spark` | [**Galaxy Morph ML**](https://www.kaggle.com/code/jeancdevx/galaxymorph-cnn-for-classifying-galaxy-morphology) |
+| <img src="./img/galaxy-morph.avif" alt="GalaxyMorphBackend" width="64" height="auto"> | [**Galaxy Morph Backend Repo**](https://github.com/jeancdevx/galaxy-morph-backend) | Real-time distributed event-driven system designed for galaxy morphology classification using Deep Learning | `NestJS` `Spark` `Kafka` `Cloudflare` | Not public deployed |
 
 <h2 align="center">🌱 My Skills</h2>
 
